@@ -1,7 +1,7 @@
 const citizens = [
-    {citizen1: Dublin},
-    {citizen2: Cork},
-    {citizen3: Galway}
+   "Russell Crowe",
+   "Edmund Hillary",
+   "Bruce McLaren"
 ];
 
 export const getCitizens = () => {

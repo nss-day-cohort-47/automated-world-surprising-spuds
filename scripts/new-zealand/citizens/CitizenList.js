@@ -1,5 +1,5 @@
-import { getCitizens } from './citizenData.js'
-import { Citizens } from './citizen.js'
+import { getCitizens } from './CitizenData.js'
+import { Citizens } from './Citizen.js'
 
 export const citizenList = () => {
     const citizens = getCitizens()
@@ -8,5 +8,5 @@ export const citizenList = () => {
         (citizenObj) => {
             inputLocation.innerHTML += Citizens(citizenObj)
         }
-    );
+    )
 };
