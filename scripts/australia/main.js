@@ -1,3 +1,3 @@
-import { cityList } from "./cityList.js"
+import { cityList } from "./cities/cityList.js"
 const testCity = cityList();
 console.log(testCity);
