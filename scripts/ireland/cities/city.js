@@ -5,7 +5,7 @@ export const City = (cityObj) => {
             <li>${cityObj.city1}</li>
             <li>${cityObj.city2}</li>
             <li>${cityObj.city3}</li>
-        </ul
+        </ul>
         `
     )
 }
