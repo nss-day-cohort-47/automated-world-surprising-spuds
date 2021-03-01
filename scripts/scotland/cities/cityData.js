@@ -1,7 +1,7 @@
 const cities = [
-    {city1: "Dublin"},
-    {city2: "Cork"},
-    {city3: "Galway"}
+    "Edinburgh",
+    "Aberdeen",
+    "Glasgow"
 ];
 
 export const getCities = () => {
