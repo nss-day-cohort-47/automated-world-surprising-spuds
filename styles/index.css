@@ -29,10 +29,16 @@
     
   }
   
-  .country_card:hover {
+  /* .country_card:hover {
     border: .0001px solid #757575;
-  }
+  } */
   
+  .country_card:hover{
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+
   .main_countries img {
       display: flex;
       flex-wrap: wrap;
