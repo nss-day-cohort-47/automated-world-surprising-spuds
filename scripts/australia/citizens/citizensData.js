@@ -1,7 +1,7 @@
 const citizens = [
-    "Russell Crowe",
-    "Edmund Hillary",
-    "Bruce McLaren"
+    "Heath Ledger",
+    "Steve Irwin",
+    "Hugh Jackman"
  ];
  
  export const getCitizens = () => {

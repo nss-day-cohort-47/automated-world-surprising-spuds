@@ -1,5 +1,7 @@
 const landmarks = [
-    "Loch Ness", "Ediburgh Castle", "Ben Nevis"
+    "Sydney Opera House",
+    "Uluru",
+    "Heart Reef"
 ];
 
 export const getLandmarks = () => {
