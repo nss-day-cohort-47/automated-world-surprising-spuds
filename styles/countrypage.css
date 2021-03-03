@@ -30,7 +30,7 @@
     flex-wrap: wrap;
     
     margin-bottom: 50px;
-    padding: 50px;
+    /* padding: 50px; */
 }
 
 .country_info--cities {
@@ -88,7 +88,7 @@ article {
 }
 
 article li {
-    font-size: 20px;
+    font-size: 25px;
     list-style-type: none;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -111,3 +111,4 @@ footer {
     color: #F7F7F7;
     text-align: center;
 }
+
