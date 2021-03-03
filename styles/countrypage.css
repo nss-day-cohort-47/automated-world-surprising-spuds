@@ -4,7 +4,7 @@
 	list-style: none;
 	justify-content: center;
     margin: 0;
-   
+    flex-wrap: wrap;
 }
 
 .nav li a {
