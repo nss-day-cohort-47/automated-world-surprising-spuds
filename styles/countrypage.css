@@ -47,10 +47,12 @@ header img {
 
 body {
     margin: 0;
+    background-color: #F7F7F7;
 }
 
 h1 {
     text-align: center;
+    font-family: "Cinzel", serif;
 }
 
 article h2 {
